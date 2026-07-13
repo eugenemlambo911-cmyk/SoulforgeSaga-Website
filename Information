@@ -1,0 +1,14 @@
+SoulforgeSaga-Website/
+│
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── main.js
+├── images/
+├── pages/
+│   ├── characters.html
+│   ├── world.html
+│   ├── power system.html
+│   ├── volumes.html
+│   └── about.html
