@@ -1,2 +1,23 @@
-# SoulforgeSaga-Website
-Official website for the Soulforge Saga light novel.  Features: - Character encyclopedia - Worldbuilding - Aura system - News and updates  Created by Eugene Tanatswa. all story content, characters, artwork, and worldbuilding are © Eugene Mlambo. All rights reserved.
+# Soulforge Saga
+
+Official repository for the Soulforge Saga light novel.
+
+## About
+
+Soulforge Saga is an original epic fantasy light novel featuring:
+
+- Aura-based combat
+- Kingdoms and empires
+- Military organizations
+- Ancient mysteries
+- Character-driven storytelling
+
+## Official Website
+
+Coming soon.
+
+## Author
+
+Eugene Mlambo
+
+© All story content, characters, locations, and worldbuilding are the intellectual property of the author. All rights reserved.
